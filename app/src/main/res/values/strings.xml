@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">snakeAndLadder</string>
+    <string name="red">🔴</string>
+    <string name="blue">🔵</string>
+    <string name="smiley">😀</string>
+    
+</resources>
